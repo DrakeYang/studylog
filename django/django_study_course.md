@@ -12,4 +12,5 @@
   - mysql_connect 시도 및 성공. md 남김
   - 진행하다보니 페이징 등 페이지 자체는 잘 모르는걸 알게됨. 일단 블로그 튜토리얼부터 해보기로 함
 	5.1. 블로그 만들기 - https://tutorial.djangogirls.org/ko/
-		- 진행중
+		-  완료
+		
